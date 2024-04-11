@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="total">Total</string>
+    <string name="hi_world">Hola Mundo</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="btn_minus">Restar</string>
+    <string name="btn_plus">Sumar</string>
+</resources>
