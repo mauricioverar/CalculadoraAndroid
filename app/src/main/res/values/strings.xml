@@ -5,4 +5,6 @@
     <string name="multiply">Multiplicar</string>
     <string name="btn_minus">Restar</string>
     <string name="btn_plus">Sumar</string>
+    <string name="primer_n">Primer Nº</string>
+    <string name="segundo_n">Segundo Nº</string>
 </resources>
